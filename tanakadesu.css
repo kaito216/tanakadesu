@@ -89,3 +89,19 @@ font-size:40px;
   floaat
   width:200px;
 }
+footer{
+  background-color:green;
+  padding:20px;
+  height:100px;
+}
+.footer-logo{
+  float:left;
+  font-size:30px;
+}
+.footer-list{
+  float:right;
+}
+footer li{
+  margin-bottom:20px;
+}
+
